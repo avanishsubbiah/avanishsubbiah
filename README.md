@@ -1,7 +1,7 @@
 <div align="center">
   <h><b>Avanish Subbiah</b></h>
   <p>Data Science - Web Development - Microcontrollers</p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=avanishsubbiah&show_icons=true&theme=github_dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avanishsubbiah&show_icons=true&theme=github_dark" />
   </a>
 </div>
